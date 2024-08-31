@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
@@ -16,6 +17,7 @@
     "@huggingface/hub": "^0.15.1",
     "@huggingface/inference": "^2.8.0",
     "axios": "^1.7.6",
+    "dat.gui": "^0.7.9",
     "formidable": "^3.5.1",
     "formidable-serverless": "^1.1.1",
     "framer-motion": "^11.3.31",
